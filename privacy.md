@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # Privacy Policy – Tenly
 
 Last updated: March 2025
